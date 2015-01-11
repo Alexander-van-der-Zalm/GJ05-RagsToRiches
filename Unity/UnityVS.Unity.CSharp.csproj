@@ -54,7 +54,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AnimationReference.cs" />
     <Compile Include="Assets\Code\FrameWork\AI\AI_AgentBlackBoardAccessParameter.cs" />
     <Compile Include="Assets\Code\FrameWork\AI\AI_Blackboard.cs" />
     <Compile Include="Assets\Code\FrameWork\AI\AI_BlackboardComponent.cs" />
@@ -190,9 +189,6 @@
     <Compile Include="Assets\Code\FrameWork\Utility\Serialization\SurrogateHandler.cs" />
     <Compile Include="Assets\Code\FrameWork\Utility\Serialization\VectorSurrogates.cs" />
     <Compile Include="Assets\Code\FrameWork\Utility\Singleton.cs" />
-    <Compile Include="Assets\CustomClassNoUnity.cs" />
-    <Compile Include="Assets\CustomClassUnity.cs" />
-    <Compile Include="Assets\TesteSerializableObject.cs" />
     <None Include="Assets\Code\FrameWork\Third Party\UnityTestTools\changelog.txt" />
     <None Include="Assets\Code\FrameWork\Third Party\UnityTestTools\LICENSE.txt" />
     <None Include="Assets\Plugins\PlayModePersist\readme.txt" />
