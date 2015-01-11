@@ -193,7 +193,6 @@
     <Compile Include="Assets\CustomClassNoUnity.cs" />
     <Compile Include="Assets\CustomClassUnity.cs" />
     <Compile Include="Assets\TesteSerializableObject.cs" />
-    <Compile Include="Assets\Unity Components\TestMono.cs" />
     <None Include="Assets\Code\FrameWork\Third Party\UnityTestTools\changelog.txt" />
     <None Include="Assets\Code\FrameWork\Third Party\UnityTestTools\LICENSE.txt" />
     <None Include="Assets\Plugins\PlayModePersist\readme.txt" />
